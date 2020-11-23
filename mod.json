@@ -1,0 +1,8 @@
+{
+  "name": "shuffle",
+  "description": "adds some spice to mindustry",
+  "author": "ZestyLemonade (sample-text-here)",
+  "version": 1,
+  "minGameVersion": 105,
+  "hidden": true
+}
